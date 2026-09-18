@@ -55,7 +55,7 @@ awareness_content = {
 }
 
 # Streamlit App
-st.title("Yuvan's Password Generator")
+st.title("Yuvan's Password Generator version one")
 
 # Dropdown for awareness content
 platform = st.selectbox("Select a platform for which you are creating a password for:", list(awareness_content.keys()))
