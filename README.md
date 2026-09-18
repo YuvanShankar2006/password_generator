@@ -1,4 +1,4 @@
-# Yuvan's Password Generator
+# Yuvan's Password Generator version one !
 
 This is a simple password generator web app built using Streamlit. It generates secure passwords based on user-defined parameters like the number of capital letters, small letters, numbers, and special characters. Additionally, the app provides security awareness tips for creating strong passwords across various platforms like Instagram, LinkedIn, and Google.
 
