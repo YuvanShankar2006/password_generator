@@ -60,3 +60,5 @@ The app should now be running on `http://localhost:8501/`.
 ## Contributing
 
 Contributions are welcome! If you'd like to improve this project or report any issues, feel free to open a pull request or issue in the repository.
+
+## Thankyou !
